@@ -1,25 +1,25 @@
 # Pokedux ![Status badge](https://img.shields.io/badge/status-in%20progress-yellow)
 
-✨ Encuentra tus pokemones favoritos y descubre todas sus habilidades para convertirte en el mejor Maestro Pokemón usando REDUX.
+✨ Find your favorite pokemons and discover all their abilities to become the best Pokémon Master using REDUX.
 
-## 🚀 Instalación
+## 🚀 Install
 
-1. Clona este proyecto.
-2. Ve a la carpeta del proyecto
+1. Clone this project.
+2. Go to the project folder
    `cd pokedux`
-3. Instala las dependencias
+3. Install dependencies
    `yarn`
-4. Corre el ambiente local
+4. Run the local env
    `yarn start`
 
-## 🛠 Despliegue
+## 🛠 Deploy
 
-1. Una vez instsaladas las dependencias, puedes hacer el build
+1. Once the dependencies are installed, you can do the build
    `yarn build`
 
-## 🦀 Base de Datos Pokemon
+## 🦀 Pokemon Database
 
-Todos los datos vienen de [PokeApi](https://pokeapi.co/)
+API [PokeApi](https://pokeapi.co/)
 
 ## 🧾 License
 
